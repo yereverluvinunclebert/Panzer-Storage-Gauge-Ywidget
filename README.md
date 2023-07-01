@@ -3,8 +3,7 @@
 Panzer Storage Yahoo Widget, written in Javascript and XML for the Yahoo 
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
-
-![panzer-stopwatch650](https://github.com/yereverluvinunclebert/Panzer-Clock-Ywidget/assets/2788342/352fb2cb-742d-4e24-afe7-906b05e7fb1e)
+![panzerStorage650](https://github.com/yereverluvinunclebert/Panzer-Storage-Gauge-Ywidget/assets/2788342/c09a4cbe-ddde-4d76-a0d4-f7294f317e0a)
 
 This Panzer widget is an attractive dieselpunk Yahoo widget for your desktop. 
 It is a simple drive storage gauge. It can handle A or B floppy drives if they 
@@ -49,7 +48,8 @@ Running the widget using a javascript engine frees javascript from running only
 within the captivity of a browser, you will now be able to run these widgets on 
 your Windows desktop as long as you have the correct widget engine installed.
 
- ![Icon](https://github.com/yereverluvinunclebert/Panzer-Clock-Ywidget/assets/2788342/332a7b59-abd6-4eac-857d-51dfe2d80af9)
+![tank-help-750](https://github.com/yereverluvinunclebert/Panzer-Storage-Gauge-Ywidget/assets/2788342/fdfda55c-7e25-4908-ae5c-90e4c3c15961)
+
  
 Instructions for running Yahoo widgets on Windows
 =================================================
@@ -82,8 +82,7 @@ Wit these instructions you should be able to start Yahoo! Widgets and the
 menubar item should appear. Widgets can then be started from the menubar or by 
 double-clicking on the KON file in the usual way.
 
-![about](https://github.com/yereverluvinunclebert/Panzer-Clock-Ywidget/assets/2788342/bf3ec2c8-b689-434b-be30-f1f441c41c0a)
-
+![about](https://github.com/yereverluvinunclebert/Panzer-Storage-Gauge-Ywidget/assets/2788342/27808426-989e-4507-95e0-996b10ae1fd7)
 
 LICENCE AGREEMENTS:
 
