@@ -3,7 +3,9 @@
 Panzer Storage Yahoo Widget, written in Javascript and XML for the Yahoo 
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
+
 ![panzerStorage650](https://github.com/yereverluvinunclebert/Panzer-Storage-Gauge-Ywidget/assets/2788342/c09a4cbe-ddde-4d76-a0d4-f7294f317e0a)
+
 
 This Panzer widget is an attractive dieselpunk Yahoo widget for your desktop. 
 It is a simple drive storage gauge. It can handle A or B floppy drives if they 
